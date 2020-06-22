@@ -1,4 +1,6 @@
 # SNN
 use temporal coded SNN to classify actions or images
 
-full codes would be updated before 23/06.
+cells of 'Concatenation of data' and 'Concatenation of STNN and TSNN' would be run soon
+
+''
